@@ -1,12 +1,11 @@
 ### Hello, my name is Edson
 
-Sou desenvolvedor junior e estou aprendendo a programar.
+![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue) Sou desenvolvedor junior e estou aprendendo a programar.
 
-📲 [Esse é meu instagram!](www.instagram.com/edson._silveira)
-
-📱 [Esse é o meu Linkedin](www.linkedin.com/)
-
-![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
+####I like:
+⋅⋅* Program 
+⋅⋅* Play Valorant
+⋅⋅* Studying
 
 ![](https://camo.githubusercontent.com/51519b999832aec2530e2f6b9bb10d9d075258a62358dcd3060126e224fadce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3235323532353f7374796c653d666c6174266c6f676f3d6a617661736372697074)
 ![](https://camo.githubusercontent.com/30a7ab6eaf27364482199812c0903ab0959c4662fc980f29411313c2b5bd60d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3235323532353f7374796c653d666c6174266c6f676f3d48544d4c35)
@@ -15,4 +14,7 @@ Sou desenvolvedor junior e estou aprendendo a programar.
 ![](https://camo.githubusercontent.com/ff0283ecd261e1f3819a583d35f520e7e77177ea1232a736fde17a3ebb7728aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3235323532353f7374796c653d666c6174266c6f676f3d676974)
 ![](https://camo.githubusercontent.com/0a7f5634254e7263171b08b4ec34887807e64ead28b3e164652b6e80fdd7c639/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3235323532353f7374796c653d666c6174266c6f676f3d676974687562)
 ![](https://camo.githubusercontent.com/92eb0971a556b623551840543028300942116d7c691ee05d7df0fa104a05f09c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3235323532353f7374796c653d666c6174266c6f676f3d6d7973716c)
+
+📲 [Esse é meu instagram!](www.instagram.com/edson._silveira)
+📱 [Esse é o meu Linkedin](www.linkedin.com/)
 
