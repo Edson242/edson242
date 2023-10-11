@@ -6,7 +6,7 @@
 -  Atualmente trabalho na Torfresma Industrial
 -  Concluindo o Ensino Médio
   
-#### Eu gosto de:
+Eu gosto de:
 - Programar
 - Estudar
 - Ler
