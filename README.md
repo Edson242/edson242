@@ -1,4 +1,4 @@
-### Hello, my name is Edson
+### Hello, my name is Edson 🔗
 
 ![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
 #### Sou desenvolvedor junior e estou aprendendo a programar.
@@ -6,10 +6,11 @@
 -  Atualmente trabalho na Torfresma Industrial
 -  Concluindo o Ensino Médio
   
-#### I like:
-- Program
-- Play Valorant
-- Studying
+#### Eu gosto de:
+- Programar
+- Estudar
+- Ler
+- Jogar Valorant
 
 ![](https://camo.githubusercontent.com/51519b999832aec2530e2f6b9bb10d9d075258a62358dcd3060126e224fadce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3235323532353f7374796c653d666c6174266c6f676f3d6a617661736372697074)
 ![](https://camo.githubusercontent.com/30a7ab6eaf27364482199812c0903ab0959c4662fc980f29411313c2b5bd60d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3235323532353f7374796c653d666c6174266c6f676f3d48544d4c35)
