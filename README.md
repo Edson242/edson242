@@ -1,7 +1,7 @@
 ### Hello, my name is Edson
 
 ![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
-#### #FFFFFF Sou desenvolvedor junior e estou aprendendo a programar.
+####Sou desenvolvedor junior e estou aprendendo a programar.
 
 #### I like:
 ⋅⋅* Program 
