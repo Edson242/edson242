@@ -1,7 +1,7 @@
-### Olá, meu nome é Edson Silveira 🔗
+### Olá!👋 🔗
 
 ![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
-#### Sou desenvolvedor junior e estou aprendendo a programar.
+#### Sou desenvolvedor junior e estou aprendendo a programar. 🥷
 
 ### Bio:🔗
 -  Atualmente trabalhando na Torfresma Industrial
