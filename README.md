@@ -6,8 +6,7 @@
 ### Bio:
 -  Atualmente trabalhando na Torfresma Industrial
 -  Desenvolvendor TIA Portal - Siemens
--  Concluindo o Ensino Médio
--  Cursando Programador de Sistemas - Senac/SMO
+-  Aluno Ciência da Computação - Unoesc SMO
   
 ### Eu gosto de:
 - Programar
