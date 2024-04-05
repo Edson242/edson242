@@ -1,11 +1,12 @@
 ### Olá!👋
 
 ![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
-#### Sou desenvolvedor junior e estou aprendendo a programar. 🥷
+#### Sou desenvolvedor junior fissurado em programação. 🥷
 
 ### Bio:
 -  Atualmente trabalhando na Torfresma Industrial
 -  Desenvolvendor TIA Portal - Siemens
+-  Desenvolvedor Java Script | React 
 -  Aluno Ciência da Computação - Unoesc SMO
   
 ### Eu gosto de:
