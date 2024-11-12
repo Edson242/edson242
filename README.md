@@ -5,13 +5,12 @@
 
 ### Bio:
 -  Atualmente trabalhando na Torfresma Industrial
--  Desenvolvendor TIA Portal - Siemens
--  Desenvolvedor Java Script | React 
+-  Desenvolvedor TypeScript | React   
 -  Aluno Ciência da Computação - Unoesc SMO
   
 ### Eu gosto de:
 - Programar
-- Estudar
+- Estudar Programação
 - Ler
 - Jogar GTA RP
 
