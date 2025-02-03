@@ -4,8 +4,8 @@
 #### Sou desenvolvedor junior fissurado em programação. 🥷
 
 ### Bio:
--  Atualmente trabalhando na Torfresma Industrial
--  Desenvolvedor TypeScript | React   
+-  Atualmente trabalhando na Sysmo Sistemas
+-  Desenvolvedor Angular | TypeScript   
 -  Aluno Ciência da Computação - Unoesc SMO
   
 ### Eu gosto de:
