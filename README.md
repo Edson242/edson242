@@ -1,7 +1,7 @@
 ### Olá!👋
 
 ![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
-#### Sou desenvolvedor junior fissurado em programação. 🥷
+#### Sou Desenvolvedor Junior apaixonado por programação. 🥷
 
 ### Bio:
 -  Atualmente trabalhando na Sysmo Sistemas
