@@ -1,20 +1,20 @@
-### Olá!👋
+### Hello!👋
 
 ![Edson Silveira](https://img.shields.io/badge/Edson-Silveira-blue)
-#### Sou Desenvolvedor Junior apaixonado por programação. 🥷
+#### I am a Junior Developer passionate about programming. 🥷
 
 ### Bio:
--  Atualmente trabalhando na Sysmo Sistemas
--  Desenvolvedor Angular | TypeScript   
--  Aluno Ciência da Computação - Unoesc SMO
+-  Currently working at Sysmo Sistemas.
+-  Angular | TypeScript Developer.   
+-  Computer Science Student - Unoesc SMO
   
-### Eu gosto de:
-- Programar
-- Estudar Programação
-- Ler
-- Jogar GTA RP
+### Eu enjoy:
+- Programming
+- Studying Programming
+- Reading
+- Playing GTA RP
 
-### Conheço ou uso:
+### Technologies I know or use:
 
 <div style="display: inline_block"><br>
   
@@ -61,7 +61,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson242&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Contato:
+### Contact:
 <br/>
 <div> 
   <a href="https://instagram.com/edson._silveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
