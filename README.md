@@ -8,7 +8,7 @@
 -  Angular | TypeScript Developer.   
 -  Computer Science Student - Unoesc SMO
   
-### Eu enjoy:
+### I enjoy:
 - Programming
 - Studying Programming
 - Reading
